@@ -13,5 +13,4 @@ Figura da tela cadastro
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73189635/143271962-b90040e9-78e9-4168-bc38-e15e2adb8767.png"/>
 </div>
-
-teste mario
+ 
